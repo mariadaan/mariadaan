@@ -9,3 +9,5 @@ Latest projects I finished:
 
 Currently working on:
 -  🍴 [pipex](https://github.com/mariadaan/pipex): Mimics the usage of UNIX mechanisms with system calls only.
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadaan&show_icons=true&locale=en" alt="mariadaan" /></p>
