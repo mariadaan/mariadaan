@@ -10,6 +10,6 @@ Latest projects I finished:
 -  🔢 [push_swap](https://github.com/mariadaan/push_swap): Sorts a stack of numbers
 
 Currently working on:
--  🐚  minishell
+-  🐚 [minishell](https://github.com/mariadaan/mini-shell): Recreate shell
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadaan&show_icons=true&locale=en" alt="mariadaan" /></p> -->
