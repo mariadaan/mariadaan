@@ -8,8 +8,9 @@ Latest projects I finished:
 -  📄 [get_next_line](https://github.com/mariadaan/get_next_line): Reads one line at the time from a file descriptor
 -  🍴 [pipex](https://github.com/mariadaan/pipex): Mimics the usage of UNIX mechanisms with system calls only.
 -  🔢 [push_swap](https://github.com/mariadaan/push_swap): Sorts a stack of numbers
+-  🐚 [minishell](https://github.com/mariadaan/mini-shell): Recreate bash functionality
 
 Currently working on:
--  🐚 [minishell](https://github.com/mariadaan/mini-shell): Recreate shell
+- 👩🏼‍💻 [C++ modules](https://github.com/mariadaan/CPP_modules): Learning a new language, C++!
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadaan&show_icons=true&locale=en" alt="mariadaan" /></p> -->
