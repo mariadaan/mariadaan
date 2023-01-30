@@ -9,8 +9,10 @@ Latest projects I finished:
 -  🍴 [pipex](https://github.com/mariadaan/pipex): Mimics the usage of UNIX mechanisms with system calls only.
 -  🔢 [push_swap](https://github.com/mariadaan/push_swap): Sorts a stack of numbers
 -  🐚 [minishell](https://github.com/mariadaan/mini-shell): Recreate bash functionality
+- 👩🏼‍💻 [C++ modules](https://github.com/mariadaan/CPP_modules): Learning a new language, C++!
+  
 
 Currently working on:
-- 👩🏼‍💻 [C++ modules](https://github.com/mariadaan/CPP_modules): Learning a new language, C++!
+-  🌐 [webserv](https://github.com/mariadaan/webserv): Built my own webserver in C++
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadaan&show_icons=true&locale=en" alt="mariadaan" /></p> -->
