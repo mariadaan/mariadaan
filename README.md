@@ -13,6 +13,6 @@ Latest projects I finished:
 -  🌐 [webserv](https://github.com/mariadaan/webserv): Built my own webserver in C++
 
 Currently working on:
--  🌐 [transcendence](https://github.com/mariadaan/Transcendence): Create a website to play Pong with others
+-  🏓 [transcendence](https://github.com/mariadaan/Transcendence): Create a website to play Pong with others
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadaan&show_icons=true&locale=en" alt="mariadaan" /></p> -->
