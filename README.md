@@ -11,8 +11,6 @@ Latest projects I finished:
 -  🐚 [minishell](https://github.com/mariadaan/mini-shell): Recreate bash functionality
 -  👩🏼‍💻 [C++ modules](https://github.com/mariadaan/CPP_modules): Learning a new language, C++!
 -  🌐 [webserv](https://github.com/mariadaan/webserv): Built my own webserver in C++
-
-Currently working on:
 -  🏓 [transcendence](https://github.com/mariadaan/Transcendence): Create a website to play Pong with others
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariadaan&show_icons=true&locale=en" alt="mariadaan" /></p> -->
